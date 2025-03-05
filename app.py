@@ -139,7 +139,7 @@ import streamlit as st
 import re
 import random
 import string
-import pyperclip
+
 
 def evaluate_password_strength(password):
     score = 0
